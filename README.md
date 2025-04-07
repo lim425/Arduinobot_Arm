@@ -13,7 +13,7 @@ The goal was to learn ROS 2 fundamentals and apply them to manipulator robotics,
 Special thanks to Antonio Brandi for the excellent "Robotics and ROS 2 - Learn by Doing! Manipulators" course.
 
  - [Original course github repo](https://github.com/AntoBrandi/Robotics-and-ROS-2-Learn-by-Doing-Manipulators?tab=readme-ov-file#about-the-course)
-  - [Udemy course](https://github.com/AntoBrandi/Robotics-and-ROS-2-Learn-by-Doing-Manipulators?tab=readme-ov-file#about-the-course)
+  - [Udemy course](https://www.udemy.com/course/robotics-and-ros-2-learn-by-doing-manipulators/)
 
 
 
